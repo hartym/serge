@@ -1,0 +1,6 @@
+# vim swapfiles
+.*.sw?
+
+# python bytecode
+*.pyc
+
